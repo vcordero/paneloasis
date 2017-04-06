@@ -12,7 +12,7 @@ $SqlStat = "SELECT * FROM users ORDER BY id DESC";
 $result = mysql_query($SqlStat);
 $query=$mysqli->query("select * from users where user='$user'");
 $data=mysqli_fetch_assoc($query);
-$hola ="llegue aqui");
+$hola ="llegue aqui";
 var_dump($hola);exit();
 if($data['type']=='1'){ 
 ?>
