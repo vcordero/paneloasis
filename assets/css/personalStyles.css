@@ -1,0 +1,17 @@
+/***********************************************
+*	Estilos personales para adaptarlos a los
+*	requerimientos del producto.
+*
+************************************************/
+
+.input-icon > input {
+    padding-right: 96px !important;
+}
+
+textarea.form-control {
+    padding: 20px 54px !important;
+}
+
+#category{
+	display: none;
+}

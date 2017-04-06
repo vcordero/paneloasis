@@ -1,0 +1,77 @@
+FTP
+
+venezuelansmind.com
+fragancias_venezuelansmind.com
+fragancias
+
+
+
+Leer csv
+http://www.webtaller.com/construccion/lenguajes/php/lecciones/leer_datos_fichero_csv_php.php
+http://php.net/manual/es/function.fgetcsv.php
+http://blog.openalfa.com/como-leer-un-fichero-csv-en-php
+http://blog.openalfa.com/como-leer-un-fichero-csv-en-php
+
+
+___________________________________________________________________
+				
+				SILMA
+___________________________________________________________________
+
+Organizacion de las pantallas a trabajar. -------> LISTO
+
+Limpieza y organizacion del còdigo que estaba implementado. -------> LISTO
+
+Creacion de pantallas nuevas. -------> LISTO
+
+Validacion de campos (pendiente con los campos obligatorios)
+
+Arreglar menu con solo los items del usuario y del cliente. -------> LISTO
+
+Diferenciar si es un admin o un cliente tanto en menu como en las pantallas que se muestran.-------> LISTO
+
+Crear tabla para guardar los productos. -------> LISTO
+
+Arreglar css en archivo externo 
+
+Subir cvs. 
+
+Leer cvs y guardar en la BD. 
+
+Crear tabla de productos e identificarlos por categorias. 
+
+Cuando se inserta un nuevo cvs borrar lo que esta en esa categoria y llenarla de nuevo. 
+
+
+Arreglar menu para que se muestre el icono de activo cuando se haya seleccionada una opcion. 
+
+Crear los correos donde va a llegar el pedido.
+
+Listado de productos tipo a,b y c
+
+___________________________________________________________________
+				
+				JESUS
+___________________________________________________________________
+
+GENERAL
+
+Manejo de sesiones. Identificar el tipo de usuario logeado y mostar un dashboard u otro.
+
+SESION ADMIN
+
+Agregar nuevo usuario. 
+Validacion de campos (pendiente con los campos obligatorios)
+
+SESION CLIENTE
+
+Validacion de campos (pendiente con los campos obligatorios) 
+Listar los productos segun el tipo de cliente.
+En el listado de productos colocar el total de items que tiene la tabla.
+
+Enviar correo.
+Editar password.
+
+Hacer cuerpo de correo con el pedido. El correo debe tener el total de productos seleccionados. 
+
+

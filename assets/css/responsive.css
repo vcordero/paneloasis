@@ -1,0 +1,52 @@
+.tamanio{
+	width: 90px;
+}
+	
+#lightbox{
+	border: 10px solid black;
+    display: none;
+    height: 400px;
+    left: 32%;
+    position: fixed;
+    top: 22%;
+    width: 34%;
+
+}
+
+#lightbox img{
+	width: 100%;
+	height: 383px;
+}
+/*		RESPONSIVE		*/
+/*  Horizontal */
+@media (max-width: 767px) { 
+	#lightbox {
+	    border: 5px solid black;
+	    height: 210px;
+	    width: 50%;
+	}
+
+	#lightbox img {
+	    height: 199px;
+	    width: 100%;
+	}
+}
+
+/*  Vertical */
+@media (max-width: 480px){
+	.tamanio{
+		width: 80%;
+	}
+
+	#lightbox img{
+		height: 292px;
+	}
+
+	#lightbox {
+	    border: 5px solid black;
+	    height: 301px;
+	    left: 22%;5
+	    top: 22%;
+	    width: 60%;
+	}
+}
